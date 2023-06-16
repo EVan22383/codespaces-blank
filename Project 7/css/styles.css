@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gainsboro;
+}
+
+h1,h2 {
+  color: darkblue;
+}
+
+p {
+  color:steelblue;
+}
+
+input.submit{
+  color: black
+}
+
+input.submit:hover {
+  background-color: cadetblue;
+}
+.text {
+  color: deepskyblue;
+}
